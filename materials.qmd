@@ -1,0 +1,34 @@
+---
+title: "BIDS materials"
+---
+
+This page provides some materials and resources for BIDS. If you have any questions or need help with BIDS, feel free to contact us.
+
+## BIDS specification
+A good place to start always is the specification, available on the [BIDS documentation website](https://bids-specification.readthedocs.io).
+You can find all the information you need for modality specific and agnostic details.
+
+## Workshops and presentations 
+If you want to look for some material regardings BIDS, here are some talks or posters about BIDS from the past :
+
+- Mobile Brain Imaging Conference (MOBI), Piran, 2024 - Workshop by Sein Jeung & Julius Welzel
+  [Slides](slides/2406_ngmt_mobi.pdf)
+- Psychologie & Gehirn ([IGOR Prize](https://www.dgps.de/fachgruppen/fgbi/aktivitaeten-der-fachgruppe/igor/)), Hamburg 2024 - Poster by Julius Welzel 
+  [Poster](slides/08_welzel.pdf)
+- Open Science Series, Oldenburg 2024 - Workshop by Julius Welzel
+  [Slides](slides/2405_bidsIntro_oldenburg_welzel.pdf)
+- Introduction to fMRIPrep - Workshop by Lennart Wittkuhn
+  [Slides](https://lennartwittkuhn.com/talks/2019-07-12-talk-fmriprep-doeller.html)
+
+
+Related talks about BIDS : 
+
+- Open Science Series, DGPA, 2024 - Workshop by Sein Jeung & Julius Welzel
+  [Slides](slides/2410_dgpa_welzel_jeung.pdf)
+
+## Tutorials & repositories
+You can browse the tutorials to get started with MOTION-BIDS or BIDS in general:
+
+- Scripts for converting different data types to BIDS using fieldtrip - [Link](https://www.fieldtriptoolbox.org/getting_started/bids/)
+- Scripts for converting XDF data to BIDS  - [Link](https://github.com/sjeung/multimodal_XDF-to-BID)
+- Github repo with workshop material for Python - [Link](https://github.com/JuliusWelzel/bids_workshop)
